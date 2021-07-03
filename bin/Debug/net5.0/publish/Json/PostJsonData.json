@@ -1,0 +1,18 @@
+{
+     "OwnerAccountId": 1, 
+     "Name": "Testing POST Event",
+     "Caption": "Post event caption",
+     "Description": "Post Event Description",
+     "EventType": 1,
+     "Status": 1,
+     "MainCategory": 1,
+     "BannerImageName": "banner-image-1.png",
+     "ThumbnailImageName": "thumbnail-image-1.png",
+     "CreatedDate": "2021-02-25T20:54:55.683",
+     "CreatedBy": 1,
+     "ModifiedDate": "2021-02-25T20:54:55.683",
+     "ModifiedBy": "1",
+     "OpenTokRoomName": "FILLER", 
+     "OpenTokSessionID": "FILLER", 
+     "OpenTokToken": "FILLER" 
+}
